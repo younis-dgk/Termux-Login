@@ -19,8 +19,6 @@ pkg install git python
  ### Run Tool
 ````bash
 cd
-clear
-rm -rf SafeUM
 git clone https://github.com/younis-dgk/Termux-login
 cd Termux-login
 bash setup.sh
